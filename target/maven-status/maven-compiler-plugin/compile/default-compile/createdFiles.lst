@@ -1,0 +1,12 @@
+com\motorcorp\App.class
+com\motorcorp\view\Ventana$Operacion.class
+com\motorcorp\service\InventarioService.class
+com\motorcorp\view\Ventana$1.class
+com\motorcorp\model\Repuesto.class
+com\motorcorp\controller\InventarioController.class
+com\motorcorp\view\Ventana.class
+com\motorcorp\service\ReporteExcel.class
+com\motorcorp\dao\mysql\MySqlInventarioDao.class
+com\motorcorp\model\Movimiento.class
+com\motorcorp\util\Db.class
+com\motorcorp\dao\InventarioDao.class
